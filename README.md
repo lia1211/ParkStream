@@ -1,4 +1,8 @@
-# FIT5202 — Big Data Processing: Spark & Kafka
+# ParkStream
+
+**Melbourne parking-sensor analytics with PySpark and real-time Kafka streaming**
+
+*Monash University · FIT5202 Data Processing for Big Data · 2026*
 
 > **Note:** this unit's results have not been released yet — keep this repo
 > **private** until grades are out, then feel free to make it public.

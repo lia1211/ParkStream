@@ -14,7 +14,7 @@ Kafka streaming pipeline (producer → Spark Structured Streaming → consumer).
 validating large parking/traffic sensor datasets in PySpark (schema enforcement,
 missing-value handling, timestamp parsing, duration calculation, data-quality
 reporting), then partitioning and query optimisation with before/after evidence
-from the Spark UI (jobs, stages, DAGs, shuffle read/write) in `screenshots/`.
+from the Spark UI (jobs, stages, DAGs, shuffle read/write) in `screenshot/`.
 
 ### `assignment2a-batch-processing/`
 Follow-up batch analysis on the same domain (parking sensors, traffic counts,
